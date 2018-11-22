@@ -75,4 +75,5 @@ public class MyPuAdapter extends RecyclerView.Adapter<MyPuAdapter.ViewHolder> {
     public interface OnItemClickListener {
         void onItemClick(View v, int position);
     }
+
 }
